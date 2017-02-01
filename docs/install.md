@@ -33,5 +33,5 @@ If installation was successful, you should be able to see `QuantitativeReporting
 # Upgrade
 It is currently not possible to upgrade `QuantitativeReporting` without upgrading the 3D Slicer application.
 
-If you need to upgrade the software, download the latest nightly release of 3D Slicer and install the `QuantitativeReporting` extension following [installation instructions](install.md#installation-and-upgrade).
+If you need to upgrade the software, download the latest nightly release of 3D Slicer and install the `QuantitativeReporting` extension following [installation instructions](#installation-and-upgrade).
 
