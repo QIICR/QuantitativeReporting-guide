@@ -13,7 +13,7 @@
 * Save quantitative imaging results as a linked collection of DICOM objects: 
   * DICOM Structured Report [TID 1500](http://dicom.nema.org/medical/dicom/current/output/chtml/part16/chapter_A.html#sect_TID_1500) 
   * DICOM Segmentation 
-* Load and display the volumetric measurements stored using SR
+* Load and display the volumetric measurements from SR
 
 ![](docs/screenshots/QuantitativeReporting-screenshot.jpg)
 
