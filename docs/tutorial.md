@@ -40,7 +40,7 @@ Once the DICOM sample dataset (or whichever dataset you would like to load into 
 #### Select Terminology
 
 In order to make a segmentation more specific you can select another terminology by double clicking onto the color icon of the segment. This is shown in the previously displayed picture. The following screenshot shows the terminology selection widget. Select for category "Anatomical Structure" and after that type "Brain" into the search mask of the "Property type". Choose "Brain ventricle" from the proposed list.
-
+![](/assets/testarea.png)
 ![](screenshots/select_terminology.png)
 
 #### Segment by Using `SegmentEditor` Effects
@@ -55,7 +55,7 @@ The `Threshold Effect` can be used for specifying a range of valid grayscale val
 
 Now go ahead and paint the along the ventricle of the brain. You will notice, that the thresholded paint will help you a lot going through the slices.
 
-![](screenshots/thresholded_painting.png)
+![!](/assets/save_report.png)[](screenshots/thresholded_painting.png)
 
 ### Save Report
 Once you are done with creating a segmentation and you want to save the measurements result as DICOM push one the button "Save Report":
