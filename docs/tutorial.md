@@ -31,7 +31,11 @@ In this section we will be segmenting ventricles of the human brain.
 
 #### Add Segment(s)
 
-Once the DICOM sample dataset (or whichever dataset you would like to load into 3D Slicer) has been loaded into `QuantitativeReporting` you can create a first segment. By hovering over the segments color icon a tooltip will appear which gives you more information about the terminology which is currently assigned to this segment. 
+Once the DICOM sample dataset (or whichever dataset you would like to load into 3D Slicer) has been loaded into `QuantitativeReporting` you can create a first segment. 
+
+![](/screenshots/add_segment.png)
+
+By hovering over the segments color icon a tooltip will appear which gives you more information about the terminology which is currently assigned to this segment. 
 
 ![](screenshots/added_segment.png)
 
