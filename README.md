@@ -6,14 +6,13 @@
 
 ## Capabilities of `QuantitativeReporting` Include:
 
-* Load a DICOM image series \(CT, MRI\)
-* Support of quantitative analysis workflow 
-* Interactive image annotation \(use automated segmentation tools of 3D Slicer to VOI\)
-* Automatic calculation of VOI-based measurements
-* Save quantitative imaging results as a linked collection of DICOM objects: 
+* Loading of DICOM image series \(CT, MRI\)
+* Interactive image annotation using automated segmentation tools of 3D Slicer
+* Automatic calculation of segmentation-based measurements statistics
+* Saving of the segmentation-based measurements as a linked collection of DICOM objects: 
   * DICOM Structured Report [TID 1500](http://dicom.nema.org/medical/dicom/current/output/chtml/part16/chapter_A.html#sect_TID_1500) 
   * DICOM Segmentation 
-* Load and display the volumetric measurements from SR
+* Loading and display of the volumetric measurements from SR+SEG
 
 ![](docs/screenshots/QuantitativeReporting-screenshot.jpg)
 
@@ -22,7 +21,6 @@
 Please feel free to contact us for questions, feedback, suggestions, bugs, or you can create issues in the issue tracker: [https://github.com/QIICR/QuantitativeReporting/issues](https://github.com/QIICR/QuantitativeReporting/issues)
 
 * [Andrey Fedorov](https://github.com/fedorov) fedorov@bwh.harvard.edu
-
 * [Christian Herz](https://github.com/che85) cherz@bwh.harvard.edu
 
 ### Acknowledgments

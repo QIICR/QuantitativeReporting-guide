@@ -19,8 +19,8 @@ First of all you will need to download a DICOM sample dataset.
 By using the button shown above the following tasks will be accomplished for you: 
 
 1. **Download** the DICOM sample dataset
-2. **Unpacking** and **importing** it into 3D Slicer 
-3. Initiating the **creation of a new measurement** table which references the downloaded DICOM sample dataset 
+2. **Unpack** and **import** it into 3D Slicer 
+3. Initiate the **creation of a new measurement** table which references the downloaded DICOM sample dataset 
 4. **Display** the DICOM sample dataset in your current slice view layout
 
 ![](screenshots/loaded_sample_dataset.png)
@@ -35,7 +35,7 @@ Once the DICOM sample dataset (or whichever dataset you would like to load into 
 
 ![](screenshots/add_segment.png)
 
-**Note**: Initially each segment gets the terminology category and type **"Tissue"** assigned .
+**Note**: Initially each segment gets the terminology category and type **"Tissue"** assigned.
 
 #### Select Terminology
 
@@ -85,7 +85,7 @@ With completing the previously shown steps, `QuantitativeReporting` should be re
 
 ## Import and Load a Custom DICOM Dataset into 3D Slicer
 
-In case that you want to use your own dataset for running this tutorial, you will need to manually import it into 3D Slicer, load it and create a new measurement report in `QuantitativeReporting`. Once the DICOM dataset has been imported to 3D Slicer the other steps won't take much time.
+In case that you want to use your own DICOM imaging series in this tutorial, you will first need to manually import it into 3D Slicer DICOM database, load it and create a new measurement report in `QuantitativeReporting`. Once the DICOM dataset has been imported to 3D Slicer the other steps won't take much time.
 
 
 **add screenshot here** of importing into Slicer
