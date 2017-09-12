@@ -14,7 +14,7 @@
   * DICOM Segmentation 
 * Loading and display of the volumetric measurements from SR+SEG
 
-![](docs/screenshots/QuantitativeReporting-screenshot.jpg)
+![](/assets/QuantitativeReporting-screenshot.png)
 
 ### Support
 
