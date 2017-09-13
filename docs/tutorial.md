@@ -12,6 +12,8 @@ In this section you will learn how to create a DICOM Structured Report which wil
 
 ### Load DICOM Sample Dataset
 
+**Important!** In order to have the following `Test Area` displayed, Slicer `Developer Mode` needs to be enabled in your Slicer application settings.
+
 First of all you will need to download a DICOM sample dataset. 
 
 ![](screenshots/testarea.png)
