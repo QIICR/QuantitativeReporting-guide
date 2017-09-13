@@ -45,6 +45,11 @@ By hovering over the segments color icon a tooltip will appear which gives you m
 
 ![](screenshots/added_segment.png)
 
+**TIP**: You can make better use of the whole screen by switching to the Four-Up Table Layout as shown below. Doing so 
+the measurements table will appear below the viewers instead of having it inside the module GUI panel.
+
+![](screenshots/change_layout.png)
+
 In order to make a segmentation more specific you can select another terminology by double clicking onto the color icon of the segment. This is shown in the previously displayed picture. The following screenshot shows the terminology selection widget. Select for category "Anatomical Structure" and after that type "Brain" into the search mask of the "Property type". Choose "Brain ventricle" from the proposed list.
 
 ![](screenshots/select_terminology.png)
